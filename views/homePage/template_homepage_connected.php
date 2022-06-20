@@ -7,9 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="index.php"method="POST"enctype="multipart/form-data">
-        <input type="file" name="image">
-        <input type="submit" value="Envoyer">
-    </form>
+    <h1>vous étes connecté</h1>
 </body>
 </html>
